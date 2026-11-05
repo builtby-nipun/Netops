@@ -1,0 +1,9 @@
+2026-10-26 17:01:14 [INFO] Registered device srv-01 (api-server-01)
+2026-10-26 17:01:14 [INFO] Registered device rtr-01 (edge-router-01)
+2026-10-26 17:01:14 [INFO] Registered device ws-01 (ops-workstation-01)
+2026-10-26 17:03:35 [INFO] Registered device srv-01 (api-server-01)
+2026-10-26 17:03:35 [INFO] Registered device rtr-01 (edge-router-01)
+2026-10-26 17:03:35 [INFO] Registered device ws-01 (ops-workstation-01)
+2026-10-26 17:03:37 [CRITICAL] ALT-1 device=srv-01 Critical network latency threshold exceeded
+2026-10-26 17:03:37 [CRITICAL] ALT-2 device=srv-01 Critical CPU utilization threshold exceeded
+2026-10-26 17:03:37 [WARNING] ALT-3 device=srv-01 Memory utilization is elevated

@@ -1,9 +1,3 @@
-build/
-cmake-build-*/
-.vscode/
-.idea/
-*.o
-*.obj
+﻿build/
 *.exe
-*.log
-.DS_Store
+*.obj
